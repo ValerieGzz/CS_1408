@@ -1,0 +1,12 @@
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.vbproj.AssemblyReference.cache
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.Form1.resources
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.Resources.resources
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.vbproj.GenerateResource.cache
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.vbproj.CoreCompileInputs.cache
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\bin\Debug\DEMSALES.exe.config
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\bin\Debug\DEMSALES.exe
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\bin\Debug\DEMSALES.pdb
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\bin\Debug\DEMSALES.xml
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.exe
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.xml
+C:\Users\valeriegonzalez\source\repos\LA8_Group2\DEMSALES\obj\Debug\DEMSALES.pdb
