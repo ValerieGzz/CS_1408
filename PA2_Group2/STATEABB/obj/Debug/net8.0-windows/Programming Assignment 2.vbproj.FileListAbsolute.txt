@@ -1,0 +1,16 @@
+C:\Users\josephkang\source\repos\Programming Assignment 2\bin\Debug\net8.0-windows\Programming Assignment 2.exe
+C:\Users\josephkang\source\repos\Programming Assignment 2\bin\Debug\net8.0-windows\Programming Assignment 2.deps.json
+C:\Users\josephkang\source\repos\Programming Assignment 2\bin\Debug\net8.0-windows\Programming Assignment 2.runtimeconfig.json
+C:\Users\josephkang\source\repos\Programming Assignment 2\bin\Debug\net8.0-windows\Programming Assignment 2.dll
+C:\Users\josephkang\source\repos\Programming Assignment 2\bin\Debug\net8.0-windows\Programming Assignment 2.pdb
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming_Assignment_2.Form1.resources
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.vbproj.GenerateResource.cache
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.AssemblyInfoInputs.cache
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.AssemblyInfo.vb
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.vbproj.CoreCompileInputs.cache
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.dll
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\refint\Programming Assignment 2.dll
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.pdb
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\Programming Assignment 2.genruntimeconfig.cache
+C:\Users\josephkang\source\repos\Programming Assignment 2\obj\Debug\net8.0-windows\ref\Programming Assignment 2.dll
