@@ -1,0 +1,16 @@
+C:\Users\josephkang\source\repos\BCALORIES\bin\Debug\net8.0-windows\BCALORIES.exe
+C:\Users\josephkang\source\repos\BCALORIES\bin\Debug\net8.0-windows\BCALORIES.deps.json
+C:\Users\josephkang\source\repos\BCALORIES\bin\Debug\net8.0-windows\BCALORIES.runtimeconfig.json
+C:\Users\josephkang\source\repos\BCALORIES\bin\Debug\net8.0-windows\BCALORIES.dll
+C:\Users\josephkang\source\repos\BCALORIES\bin\Debug\net8.0-windows\BCALORIES.pdb
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.Form1.resources
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.vbproj.GenerateResource.cache
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.AssemblyInfoInputs.cache
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.AssemblyInfo.vb
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.vbproj.CoreCompileInputs.cache
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.dll
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\refint\BCALORIES.dll
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.pdb
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\BCALORIES.genruntimeconfig.cache
+C:\Users\josephkang\source\repos\BCALORIES\obj\Debug\net8.0-windows\ref\BCALORIES.dll

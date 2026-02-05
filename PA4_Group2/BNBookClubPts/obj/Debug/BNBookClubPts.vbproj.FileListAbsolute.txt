@@ -1,0 +1,13 @@
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\bin\Debug\BNBookClubPts.exe.config
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\bin\Debug\BNBookClubPts.exe
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\bin\Debug\BNBookClubPts.pdb
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\bin\Debug\BNBookClubPts.xml
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.vbproj.AssemblyReference.cache
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.Form1.resources
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.Resources.resources
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.vbproj.GenerateResource.cache
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.vbproj.CoreCompileInputs.cache
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.exe
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.xml
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.pdb
+C:\Users\valeriegonzalez\source\repos\PA4_Group2\BNBookClubPts\obj\Debug\BNBookClubPts.exe.config
