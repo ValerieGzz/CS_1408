@@ -1,0 +1,16 @@
+C:\Users\josephkang\source\repos\PWVERIFIER\bin\Debug\net8.0-windows\PWVERIFIER.exe
+C:\Users\josephkang\source\repos\PWVERIFIER\bin\Debug\net8.0-windows\PWVERIFIER.deps.json
+C:\Users\josephkang\source\repos\PWVERIFIER\bin\Debug\net8.0-windows\PWVERIFIER.runtimeconfig.json
+C:\Users\josephkang\source\repos\PWVERIFIER\bin\Debug\net8.0-windows\PWVERIFIER.dll
+C:\Users\josephkang\source\repos\PWVERIFIER\bin\Debug\net8.0-windows\PWVERIFIER.pdb
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.Form1.resources
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.vbproj.GenerateResource.cache
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.AssemblyInfoInputs.cache
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.AssemblyInfo.vb
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.vbproj.CoreCompileInputs.cache
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.dll
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\refint\PWVERIFIER.dll
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.pdb
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\PWVERIFIER.genruntimeconfig.cache
+C:\Users\josephkang\source\repos\PWVERIFIER\obj\Debug\net8.0-windows\ref\PWVERIFIER.dll

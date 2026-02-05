@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PWVERIFIER/1.0.0": {
+        "runtime": {
+          "PWVERIFIER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PWVERIFIER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
