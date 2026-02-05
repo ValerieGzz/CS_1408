@@ -1,0 +1,16 @@
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\bin\Debug\net8.0-windows\HEALTHCLUBFEE.exe
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\bin\Debug\net8.0-windows\HEALTHCLUBFEE.deps.json
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\bin\Debug\net8.0-windows\HEALTHCLUBFEE.runtimeconfig.json
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\bin\Debug\net8.0-windows\HEALTHCLUBFEE.dll
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\bin\Debug\net8.0-windows\HEALTHCLUBFEE.pdb
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.Form1.resources
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.vbproj.GenerateResource.cache
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.AssemblyInfoInputs.cache
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.AssemblyInfo.vb
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.vbproj.CoreCompileInputs.cache
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.dll
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\refint\HEALTHCLUBFEE.dll
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.pdb
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\HEALTHCLUBFEE.genruntimeconfig.cache
+C:\Users\josephkang\source\repos\HEALTHCLUBFEE\obj\Debug\net8.0-windows\ref\HEALTHCLUBFEE.dll
